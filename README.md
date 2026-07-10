@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Mock Interview Platform
+# 🤖 AI-Powered Mock Interview Platform (Model0.2 - In Progress)
 
 An AI-powered web application that simulates real-world technical interviews using **Google Gemini AI** and **OpenAI Whisper**. The platform helps students and professionals prepare for interviews by generating role-specific questions, analyzing spoken responses, and providing personalized AI-driven feedback.
 
