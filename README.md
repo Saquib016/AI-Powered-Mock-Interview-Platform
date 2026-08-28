@@ -2,6 +2,42 @@
 
 **Practice real interviews with an AI that generates the questions, listens to your spoken answers, and grades you like an interviewer would.**
 
+🔗 **Live demo:** https://youtu.be/a6E0kU97PMs
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023008.png?raw=true" alt="Landing page" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023027.png?raw=true" alt="Landing page" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023035.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023049.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023115.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023126.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023140.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023153.png?raw=true" width="800"/>
+</p>
 ---
 
 ## What it does
@@ -150,10 +186,6 @@ Use Chrome or Edge. The Web Speech API this app relies on is not fully supported
 - Never commit real values in `.env.local` — it's already gitignored.
 - Never hardcode a database connection string directly in `drizzle.config.js` or any source file. Always read it from `process.env`.
 - If a database credential is ever accidentally committed or shared, rotate it immediately from your Neon dashboard — treat it as compromised the moment it's visible anywhere outside your local `.env.local`.
-
-## License
-
-No license file is included in this project. All rights are reserved by default; do not redistribute without permission.
 
 ## Support
 
