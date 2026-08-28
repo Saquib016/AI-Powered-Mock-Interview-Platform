@@ -187,10 +187,6 @@ Use Chrome or Edge. The Web Speech API this app relies on is not fully supported
 - Never hardcode a database connection string directly in `drizzle.config.js` or any source file. Always read it from `process.env`.
 - If a database credential is ever accidentally committed or shared, rotate it immediately from your Neon dashboard — treat it as compromised the moment it's visible anywhere outside your local `.env.local`.
 
-## License
-
-No license file is included in this project. All rights are reserved by default; do not redistribute without permission.
-
 ## Support
 
 If this helped you, consider starring the repo.
