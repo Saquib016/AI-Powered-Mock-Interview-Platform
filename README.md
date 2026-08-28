@@ -2,6 +2,42 @@
 
 **Practice real interviews with an AI that generates the questions, listens to your spoken answers, and grades you like an interviewer would.**
 
+🔗 **Live demo:** https://youtu.be/a6E0kU97PMs
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023008.png?raw=true" alt="Landing page" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023027.png?raw=true" alt="Landing page" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023035.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023049.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023115.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023126.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023140.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Saquib016/AI-Powered-Mock-Interview-Platform/blob/main/Project%20video%20and%20Images/Screenshot%202026-08-29%20023153.png?raw=true" width="800"/>
+</p>
 ---
 
 ## What it does
